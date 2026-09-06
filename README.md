@@ -73,7 +73,7 @@ const davi = {
 
 ## Projects
 
-### [davimf.dev] (https://davimf.dev)
+### ![davimf.dev] (https://davimf.dev)
 
 Personal website and development environment used to build, test and deploy web products.
 
