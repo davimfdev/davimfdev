@@ -158,21 +158,6 @@ Work involving IP and 4G cameras, HTTP integrations, webhooks, event processing 
 
 ---
 
-### AI-assisted Development
-
-Experiments with language models applied to software development and specialized workflows.
-
-Areas of interest include:
-
-- Context engineering
-- Project-specific knowledge bases
-- Prompt and instruction architecture
-- Token usage optimization
-- External context management
-- Workflow automation
-
----
-
 ### SQL and Oracle
 
 Work and study focused on relational databases and legacy systems.
