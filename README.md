@@ -232,6 +232,6 @@ Contact
 
 ""Website" (https://img.shields.io/badge/davimf.dev-Website-000000?style=flat-square&logo=googlechrome&logoColor=white)" (https://davimf.dev)
 
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)" (https://github.com/SEU_USUARIO)
+""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)" (https://github.com/davimfdev)
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" (SEU_LINKEDIN)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" davimfdev
