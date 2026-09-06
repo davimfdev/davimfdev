@@ -216,24 +216,7 @@ Software Architecture
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=davimfdev&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimfdev&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
 ## Contact
 
-[![Website](https://img.shields.io/badge/davimf.dev-Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://davimf.dev)
+[![Website](https://img.shields.io/badge/davimf.dev-Contact-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://davimf.dev/contact)
 [![GitHub](https://img.shields.io/badge/GitHub-davimfdev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/davimfdev)
