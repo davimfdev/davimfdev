@@ -1,5 +1,3 @@
-# Software Developer
-
 Software Developer focused on backend development, infrastructure, automation and system integrations.
 
 I work mainly with **TypeScript, JavaScript, Java, Go, SQL and PL/SQL**, building web applications, APIs, automation tools and infrastructure-oriented solutions.
