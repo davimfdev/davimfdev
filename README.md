@@ -1,36 +1,10 @@
-Software Developer focused on backend development, infrastructure, automation and system integrations.
+# Software Developer
 
-I work mainly with **TypeScript, JavaScript, Java, Go, SQL and PL/SQL**, building web applications, APIs, automation tools and infrastructure-oriented solutions.
+Backend-oriented developer working across web applications, APIs, databases, infrastructure and system integrations.
 
-My main interests are software architecture, backend systems, databases, observability and automation.
+I build and maintain full-stack products with a strong focus on backend architecture, reliability and production environments.
 
----
-
-## About
-
-```ts
-const davi = {
-  location: "Goiânia, GO - Brazil",
-
-  focus: [
-    "Backend Development",
-    "Software Architecture",
-    "APIs & Integrations",
-    "Databases",
-    "Infrastructure",
-    "Automation"
-  ],
-
-  languages: [
-    "TypeScript",
-    "JavaScript",
-    "Java",
-    "Go",
-    "SQL",
-    "PL/SQL"
-  ]
-};
-```
+Based in **Goiânia, GO, Brazil**.
 
 ---
 
@@ -45,9 +19,10 @@ const davi = {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### Web & Backend
+### Backend & Web
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
@@ -55,7 +30,6 @@ const davi = {
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
 
 ### Infrastructure
 
@@ -73,94 +47,80 @@ const davi = {
 
 ### [davimf.dev](https://davimf.dev)
 
-Personal website and development environment used to build, test and deploy web products.
+Personal developer platform combining portfolio, web tools, authentication, payments, licensing and external integrations.
 
-The project includes:
+The project covers frontend and backend development, PostgreSQL persistence, payment processing, Discord integrations, containerized deployment and production infrastructure.
 
-- Frontend and backend architecture
-- REST APIs
-- Authentication
-- Payment integrations
-- License management
-- PostgreSQL databases
-- Containerized deployment
-- Infrastructure management
+`React` `TypeScript` `Express` `PostgreSQL` `Docker` `Coolify`
 
-**Stack**
-
-`React` `TypeScript` `Vite` `Node.js` `PostgreSQL` `Docker` `Coolify`
+[Repository](https://github.com/davimfdev/davimf.dev)
 
 ---
 
-### Discord Platform
+### [boasvindas.online](https://boasvindas.online)
 
-Modular platform for Discord communities, combining bots, APIs and web dashboards.
+Full-stack platform for creating and managing personalized welcome pages with authentication, media uploads and custom layouts.
 
-The project covers:
+Built as a production application with persistent storage, image processing, rate limiting, deployment automation and documented architectural decisions.
 
-- Moderation
-- Ticket management
-- Verification
-- Economy systems
-- Administrative dashboards
-- Server configuration
-- Specialized community modules
+`React` `TypeScript` `Express` `PostgreSQL` `Drizzle ORM` `Docker`
 
-**Stack**
-
-`TypeScript` `Java` `Node.js` `PostgreSQL` `REST APIs`
+[Repository](https://github.com/davimfdev/boasvindas.online)
 
 ---
 
-### Monitoring and Watchdogs
+### [BaseBot](https://github.com/davimfdev/BaseBot)
 
-Monitoring and observability tooling for infrastructure and applications.
+Modular Discord platform built around reusable modules, persistent configuration and web dashboard integration.
 
-Focused on monitoring:
+The project includes moderation, tickets, security, server configuration, database persistence and integrations with external systems.
 
-- Servers
-- Applications
-- Containers
-- Network devices
-- System resources
-- Service availability
-- Alerts and incidents
+`Java` `JDA` `PostgreSQL`
 
-**Tools**
+[Repository](https://github.com/davimfdev/BaseBot)
+
+---
+
+## Other Work
+
+### Monitoring & Observability
+
+Projects focused on monitoring infrastructure, applications and network services.
+
+Main areas include:
+
+- Server and application health
+- Containers and services
+- Network equipment
+- Availability monitoring
+- Incident detection
+- Metrics and alerts
 
 `Zabbix` `Linux` `Docker` `Tailscale`
 
----
+### IoT & Automation
 
-### IoT and Camera Automation
-
-Integrations between cameras, event detection systems, APIs and IoT devices.
+Work involving event-driven integrations between cameras, webhooks, APIs and connected devices.
 
 ```text
-Camera
-   |
-   v
-Event Detection
-   |
-   v
+Event
+  |
+  v
 Webhook / API
-   |
-   v
+  |
+  v
+Processing
+  |
+  v
 Automation
-   |
-   v
-IoT Device
+  |
+  v
+Device / Service
 ```
 
-Work involving IP and 4G cameras, HTTP integrations, webhooks, event processing and remote device control.
+### SQL & Oracle
 
----
-
-### SQL and Oracle
-
-Work and study focused on relational databases and legacy systems.
-
-Areas include:
+Work and study focused on relational databases and legacy systems, including:
 
 - SQL and PL/SQL
 - Procedures and functions
