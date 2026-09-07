@@ -190,7 +190,6 @@ Software Architecture
         +-- Automation
         |     +-- Webhooks
         |     +-- IoT
-        |     +-- AI Tooling
         |
         +-- Web Development
               +-- React
